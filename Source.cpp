@@ -32,7 +32,7 @@ int main() {
 	ortalama = toplam / 3;
 
 
-	if (toplam > 60) {
+	if (ortalama > 60) {
 		cout << "Ortalamaniz: " << ortalama << endl;
 		cout << "Tebrikler sinifi gectiniz.";
 	}
