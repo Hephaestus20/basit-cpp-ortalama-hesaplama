@@ -1,0 +1,1 @@
+# basit-cpp-ortalama-hesaplama
